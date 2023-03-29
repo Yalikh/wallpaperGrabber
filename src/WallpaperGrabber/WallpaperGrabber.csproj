@@ -9,10 +9,7 @@
 
   <ItemGroup>
     <PackageReference Include="AngleSharp" Version="1.0.1" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <ProjectReference Include="..\ToolBox\ToolBox.csproj" />
+    <PackageReference Include="CommandLineParser" Version="2.9.1" />
   </ItemGroup>
 
   <ItemGroup>
